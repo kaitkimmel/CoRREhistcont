@@ -23,3 +23,5 @@ ggplot(aes(x = yr0_abund, y = yr12_abund), data = df) +
 
 ## I think we may want to look at some metric that looks at if the species was present 
 # in yr 0 v its abundance in later years. Go by each plot?
+
+
